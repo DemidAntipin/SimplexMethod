@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='simplex-method',
+    name='SimplexMethod',
     version='1.0',
     description='Implementation of the simplex method algorithm for solving linear programming problems',
     license='MIT',

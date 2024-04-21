@@ -1,7 +1,7 @@
 import numpy as np
 import pytest
 
-from simplex_method.simplex_method import SimplexMethod
+from SimplexMethod.SimplexMethod import SimplexMethod
 
 @pytest.fixture
 def simplex_instance():
