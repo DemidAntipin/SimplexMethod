@@ -36,5 +36,5 @@ python setup.py
 Или
 
 ```bash
-pip install -e git+'https://github.com/DemidAntipin/SimplexMethod.git'
+pip install -e git+https://github.com/DemidAntipin/SimplexMethod.git#egg=SimplexMethod
 ```
