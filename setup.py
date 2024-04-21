@@ -7,7 +7,7 @@ setup(
     license='MIT',
     author='Demid Antipin',
     author_email='antipindemid@inbox.ru',
-    url='https://github.com/yourusername/simplex-method',
+    url='https://github.com/DemidAntipin/SimplexMethod',
     packages=find_packages(),
     install_requires=['numpy'],
     tests_require=['pytest'],
