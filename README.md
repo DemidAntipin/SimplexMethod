@@ -28,11 +28,11 @@
 ## Установка
 
 ```bash
-git clone URL 
-cd simplex
+git clone https://github.com/DemidAntipin/SimplexMethod.git
+cd SimplexMethod
 python setup.py```
 
 Или
 
 ```bash
-pip install -e git+URL```
+pip install -e git+'https://github.com/DemidAntipin/SimplexMethod.git```
